@@ -25,7 +25,7 @@ SECRET_KEY = 'i^q3(&@*m-ib%@o(2ue6be24$w)!v_n@12q^ipdq9uanrfrg6e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['boruto.herokuapp.com']
 
 
 # Application definition
